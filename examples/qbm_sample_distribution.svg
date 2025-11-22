@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 140">
+  <title>QBM Sample Distribution</title>
+  <rect x="20" y="60" width="30" height="60" fill="#2ca02c" />
+  <rect x="70" y="80" width="30" height="40" fill="#2ca02c" />
+  <rect x="120" y="80" width="30" height="40" fill="#2ca02c" />
+  <rect x="170" y="60" width="30" height="60" fill="#2ca02c" />
+  <text x="25" y="55" font-size="12">00</text>
+  <text x="75" y="75" font-size="12">01</text>
+  <text x="125" y="75" font-size="12">10</text>
+  <text x="175" y="55" font-size="12">11</text>
+  <text x="20" y="20" font-size="12">Green = data, outline indicates model</text>
+  <rect x="20" y="40" width="30" height="60" fill="none" stroke="#1f77b4" stroke-width="2" />
+  <rect x="70" y="90" width="30" height="30" fill="none" stroke="#1f77b4" stroke-width="2" />
+  <rect x="120" y="90" width="30" height="30" fill="none" stroke="#1f77b4" stroke-width="2" />
+  <rect x="170" y="70" width="30" height="50" fill="none" stroke="#1f77b4" stroke-width="2" />
+</svg>

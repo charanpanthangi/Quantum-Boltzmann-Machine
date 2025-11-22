@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120">
+  <title>QBM Free Energy Curve</title>
+  <polyline points="10,100 40,80 70,70 100,55 130,45 160,35 190,30" fill="none" stroke="#1f77b4" stroke-width="2" />
+  <text x="10" y="15" font-size="12">Approximate loss over epochs</text>
+</svg>
